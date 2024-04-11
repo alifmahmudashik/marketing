@@ -162,7 +162,7 @@ consentdiv.innerHTML = `
 </div>
 
 <div class=miniConsentBanner>
-  <img alt="" src=img/cookie-icon.svg width=100%>
+  <img alt="" src=https://cdn.jsdelivr.net/gh/alifmahmudashik/marketing@marketing/consent-banner/img/cookie-icon.svg width=100%>
 </div>
 `
 

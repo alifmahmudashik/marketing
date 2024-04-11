@@ -14,7 +14,7 @@ document.getElementsByTagName("head")[0].appendChild(link);
 var link=document.createElement("link");
 link.type="text/css";
 link.rel="stylesheet";
-link.href="css/mystyle.css";
+link.href="https://cdn.jsdelivr.net/gh/alifmahmudashik/marketing@marketing/consent-banner/css/mystyle.css";
 document.getElementsByTagName("head")[0].appendChild(link);
 
 

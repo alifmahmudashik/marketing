@@ -10,7 +10,7 @@ var checkedCategories = {
 }
 
 async function fetchCookies() {
-    const response = await fetch('./cookie.json');
+    const response = await fetch('https://cdn.jsdelivr.net/gh/alifmahmudashik/marketing@698b63c66ff701f07e067c7124b0d3ef71b5219f/cookie.json');
     return response.json();
 }
 

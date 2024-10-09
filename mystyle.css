@@ -490,7 +490,7 @@ div#dark svg {
 /* medias */
 @media only screen and (max-width: 900px) {
     .cookieBannerWrapper{
-        width: 80%;
+        width: 95%;
     }
 }
 

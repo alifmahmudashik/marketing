@@ -1,3 +1,11 @@
+//insert css code
+const link = document.createElement('link');
+link.rel = 'stylesheet';
+link.href = 'https://cdn.jsdelivr.net/gh/alifmahmudashik/marketing@6db53ffb0e57ea414478955f4df37f834ad48e39/mystyle.css';
+document.head.appendChild(link);
+
+
+
 window.dataLayer = window.dataLayer || [];
 
 function gtag(){
